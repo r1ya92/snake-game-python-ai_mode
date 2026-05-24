@@ -36,7 +36,7 @@ An extended version of the classic arcade Snake game built using Python's `turtl
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/r1ya92/snake-game-python-ai_mode.git)
    ```
 2. **Navigate to the directory**:
    ```bash
