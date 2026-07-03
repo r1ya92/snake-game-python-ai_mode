@@ -1,3 +1,4 @@
+<img width="889" height="939" alt="img" src="https://github.com/user-attachments/assets/5ddaa779-14b5-45cc-bf02-7668e8da2503" />
 # 🐍 Python Snake Game (with Greedy AI Mode)
 
 An extended version of the classic arcade Snake game built using Python's `turtle` library. This project builds upon the foundation from Angela Yu's "100 Days of Code" by adding an automated **AI Mode** that uses a greedy search algorithm to hunt down food efficiently.
